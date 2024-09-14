@@ -19,7 +19,7 @@ spec:
         app: dep1
     spec:
       containers:
-      - image: negix
+        - image: negix:latest
         name: negix
         resources: {}
 status: {}
