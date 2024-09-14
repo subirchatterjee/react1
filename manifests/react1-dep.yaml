@@ -19,7 +19,7 @@ spec:
         app: dep1
     spec:
       containers:
-        - image: negix:latest
+        - image: nginx:latest
         name: negix
         resources: {}
 status: {}
