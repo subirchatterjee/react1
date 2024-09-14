@@ -20,6 +20,4 @@ spec:
     spec:
       containers:
         - image: nginx
-        name: negix
-        resources: {}
-status: {}
+          name: negix
